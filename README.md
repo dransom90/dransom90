@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dransom90
-- 👀 I’m interested in ... app development.
-- 🌱 I’m currently learning ...  Android and .NET 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in app development.
+- 🌱 I’m currently learning Typescript and React
+- 📫 Contact me at djransom90@gmail.com
 
 <!---
 dransom90/dransom90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
